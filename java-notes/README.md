@@ -43,7 +43,7 @@ The minimum environment required to run Java applications. It contains
 - Core libraries and classes needed for running Java programs
 - Does NOT include development tools
 
-![[Pasted image 20250406210651.png]]
+![[assets/Pasted image 20250406210651.png]]
 
 ##### **Java Virtual Machine**
 
@@ -101,7 +101,7 @@ The Java Virtual Machine (JVM) operates through several sequential steps:
 7. **Native Method Libraries**
    - Collection of C/C++ libraries needed by the execution engine
 
-![[Pasted image 20250406211713.png]]
+![[assets/Pasted image 20250406211713.png]]
 
 ---
 
