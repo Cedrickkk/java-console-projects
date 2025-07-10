@@ -19,7 +19,7 @@ public class BetSlip {
 
     @Override
     public String toString() {
-        return "BetSlip [Numbers=" + bettorNumbers.getLottoNumbers() + "]"; // Assuming getLottoNumbers() on LottoNumbers returns Set
+        return "BetSlip [Numbers=" + bettorNumbers.getLottoNumbers() + "]";
     }
 
     @Override

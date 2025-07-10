@@ -12,7 +12,7 @@ public class LottoNumbers {
 
     public LottoNumbers(Set<Integer> numbers) {
         if (numbers == null) {
-            throw new IllegalArgumentException("Numbers set cannot be null."); // Good message
+            throw new IllegalArgumentException("Numbers set cannot be null.");
         }
 
         if(numbers.size() != NUM_COMBINATIONS) {
